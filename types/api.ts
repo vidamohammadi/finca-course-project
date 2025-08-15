@@ -1,16 +1,16 @@
- export interface ApiChapter {
+ export interface Chapter {
     id: number;
     name: string;
     canPlay: boolean;
     isFinished: boolean;
     chapterOrder: number;
-    isExam?: boolean;
-    isQuiz?: boolean;
+    isExam: boolean;
+    isQuiz: boolean;
     isExercise?: boolean;
-    isPremium?: boolean;
+    isPremium: boolean;
 }
 
-export interface ApiUnit {
+export interface Unit {
     id: number;
     name: string;
     description: string;
@@ -18,7 +18,7 @@ export interface ApiUnit {
     isFinished: boolean;
     canPlay: boolean;
     totalXps: number;
-    chapters: ApiChapter[];
+    chapters: Chapter[];
 }
 
 export interface ApiCourse {
@@ -28,5 +28,5 @@ export interface ApiCourse {
     duration: string;
     totalLessons: number;
     finishedLessons: number;
-    units: ApiUnit[];
+    units: Unit[];
 }

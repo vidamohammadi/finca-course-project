@@ -1,0 +1,404 @@
+{
+  "id": 3,
+  "name": "Introduction to Python",
+  "description": "Python is one of the most popular and widely used programming languages and a gateway to fields such as web development, data analysis, and artificial intelligence. If you plan to build your own websites and applications in the future or develop AI algorithms, this is the right place to start. By completing exercises and solving various puzzles, learn the fundamentals of programming with Python and get ready to move on to advanced courses.",
+  "duration": "12 hours",
+  "totalLessons": 75,
+  "finishedLessons": 195,
+  "units": [
+    {
+      "id": 1,
+      "name": "Syntax and Sequence",
+      "description": "The set of writing rules in a programming language is called Syntax. These rules define the correct way to write and arrange words and expressions in that language.",
+      "order": 1,
+      "isFinished": true,
+      "canPlay": true,
+      "totalXps": 100,
+      "chapters": [
+        {
+          "id": 34,
+          "name": "Introduction to Python",
+          "canPlay": true,
+          "isFinished": true,
+          "chapterOrder": 1,
+          "isExam": false,
+          "isQuiz": false,
+          "isPremium": false
+        },
+        {
+          "id": 35,
+          "name": "Basic Puzzles",
+          "canPlay": true,
+          "isFinished": true,
+          "chapterOrder": 2,
+          "isExam": false,
+          "isQuiz": false,
+          "isPremium": false
+        },
+        {
+          "id": 36,
+          "name": "Python Conventions",
+          "canPlay": true,
+          "isFinished": true,
+          "chapterOrder": 3,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": false
+        },
+        {
+          "id": 37,
+          "name": "More Puzzles",
+          "canPlay": true,
+          "isFinished": true,
+          "chapterOrder": 4,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": false
+        },
+        {
+          "id": 38,
+          "name": "Review",
+          "canPlay": true,
+          "isFinished": true,
+          "chapterOrder": 5,
+          "isExam": false,
+          "isQuiz": true,
+          "isExercise": false,
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Loops and Patterns",
+      "description": "Loops and Patterns",
+      "order": 2,
+      "isFinished": false,
+      "canPlay": true,
+      "totalXps": 120,
+      "chapters": [
+        {
+          "id": 39,
+          "name": "Introduction to the for Loop",
+          "canPlay": true,
+          "isFinished": false,
+          "chapterOrder": 6,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": false
+        },
+        {
+          "id": 40,
+          "name": "for Loop Exercises",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 7,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": false
+        },
+        {
+          "id": 41,
+          "name": "Nested Loops",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 8,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": false
+        },
+        {
+          "id": 42,
+          "name": "Nested Loop Exercises",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 9,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": false
+        },
+        {
+          "id": 43,
+          "name": "Review and Test",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 10,
+          "isExam": false,
+          "isQuiz": true,
+          "isExercise": false,
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Conditional Logic",
+      "description": "Conditional Logic",
+      "order": 3,
+      "isFinished": false,
+      "canPlay": false,
+      "totalXps": 120,
+      "chapters": [
+        {
+          "id": 44,
+          "name": "Conditions",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 11,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 45,
+          "name": "Conditional Puzzles",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 12,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 46,
+          "name": "else and Operators",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 13,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 47,
+          "name": "Conditional Puzzles 2",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 14,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 48,
+          "name": "Review and Test",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 15,
+          "isExam": false,
+          "isQuiz": true,
+          "isExercise": false,
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Conditional Loops",
+      "description": "Conditional Loops",
+      "order": 4,
+      "isFinished": false,
+      "canPlay": false,
+      "totalXps": 150,
+      "chapters": [
+        {
+          "id": 49,
+          "name": "while Loop",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 16,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 50,
+          "name": "while Loop Puzzles",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 17,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 51,
+          "name": "More while Loops",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 18,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 52,
+          "name": "while Loop Puzzles 2",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 19,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 53,
+          "name": "Review and Test",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 20,
+          "isExam": false,
+          "isQuiz": true,
+          "isExercise": false,
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Variables",
+      "description": "Variables",
+      "order": 5,
+      "isFinished": false,
+      "canPlay": false,
+      "totalXps": 150,
+      "chapters": [
+        {
+          "id": 54,
+          "name": "Introduction to Variables",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 21,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 55,
+          "name": "Basic Puzzles",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 22,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 56,
+          "name": "Input and Variables",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 23,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 57,
+          "name": "Variable Puzzles",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 24,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 58,
+          "name": "Review and Test",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 25,
+          "isExam": false,
+          "isQuiz": true,
+          "isExercise": false,
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Data Types",
+      "description": "Data Types",
+      "order": 6,
+      "totalXps": 150,
+      "isFinished": false,
+      "canPlay": false,
+      "chapters": [
+        {
+          "id": 59,
+          "name": "Introduction to Data Types",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 26,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 60,
+          "name": "String Exercises",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 27,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 61,
+          "name": "Expressions",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 28,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": false,
+          "isPremium": true
+        },
+        {
+          "id": 62,
+          "name": "Expression Puzzles",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 29,
+          "isExam": false,
+          "isQuiz": false,
+          "isExercise": true,
+          "isPremium": true
+        },
+        {
+          "id": 63,
+          "name": "Review and Test",
+          "canPlay": false,
+          "isFinished": false,
+          "chapterOrder": 30,
+          "isExam": false,
+          "isQuiz": true,
+          "isExercise": false,
+          "isPremium": true
+        }
+      ]
+    }
+  ]
+}
